@@ -10,7 +10,7 @@ The reference of RAG inference process is [here](https://github.com/juuuungwon/L
 
 ### Neo4j Dump File<br>
 You can download the dump file for the Knowledge Graph (KG) from the following link:
-[Neo4j KG Dump File](https://github.com/juuuungwon/LMs_ConstructionSafety/blob/main/constructionsafety-KG.dump)<br><br>
+[Neo4j KG Dump File](https://github.com/juuuungwon/LMs_ConstructionSafety/blob/main/constructionsafety-KG.dump).<br><br>
 
 
 
@@ -19,9 +19,10 @@ For the fine-tuning process, a QA dataset is utilized. This dataset is based on 
 
 The dataset is uploaded on HuggingFace: [DBCMLAB/Constructionsafety_QApairs](https://huggingface.co/datasets/DBCMLAB/Constructionsafety_QApairs).<br>
 
-The fine-tuned model is uploade on HuggingFace: .[DBCMLAB/KoAlpaca-Pyglot-12.8B-ConstructionSafety](https://huggingface.co/DBCMLAB/KoAlpaca-Pyglot-12.8B-ConstructionSafety).<br>
-
-
+The fine-tuned model is uploade on HuggingFace: .[DBCMLAB/KoAlpaca-Pyglot-12.8B-ConstructionSafety](https://huggingface.co/DBCMLAB/KoAlpaca-Pyglot-12.8B-ConstructionSafety).<br><br>
 
 
 ## Result
+
+All generated accident prevention measures in Korean responses can be found here:<br>
+[Accident Prevention Measures Results](https://github.com/your-repository/your-project/blob/main/prevention_measures.md)
