@@ -25,4 +25,4 @@ The fine-tuned model is uploade on HuggingFace: .[DBCMLAB/KoAlpaca-Pyglot-12.8B-
 ## Result
 
 All generated accident prevention measures in Korean responses can be found here:<br>
-[Accident Prevention Measures Results](https://github.com/your-repository/your-project/blob/main/prevention_measures.md)
+[Accident Prevention Measures Results](https://github.com/juuuungwon/LMs_ConstructionSafety/blob/main/Preventive-measure_Generatedby_AImodels.xlsx)
