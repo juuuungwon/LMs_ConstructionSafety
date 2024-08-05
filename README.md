@@ -5,7 +5,7 @@ The objective of this study is to develop and evaluate prototypes of a construct
 ## RAG Model<br>
 To utilize the RAG model, the dump file of the Knowledge Graph (KG) is installed on Neo4j.
 
-The pipeline of the RAG model is .
+The reference of RAG inference process is [here](https://github.com/juuuungwon/LMs_ConstructionSafety/blob/main/RAG-inference-eg.ipynb).
 
 
 ### Neo4j Dump File<br>
