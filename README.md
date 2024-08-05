@@ -6,6 +6,10 @@ To utilize the RAG model, the dump file of the Knowledge Graph (KG) is installed
 
 The pipeline of the RAG model is .
 
+### Neo4j Dump File
+You can download the dump file for the Knowledge Graph (KG) from the following link:
+[Neo4j KG Dump File](https://github.com/juuuungwon/LMs_ConstructionSafety/edit/main/constructionsafety-KG.dump)
+
 ## Fine-Tuning Model
 For the fine-tuning process, a QA dataset is utilized. This dataset is based on KOSHA GUIDELINES published by the Korean Occupational Safety and Health Administration.
 
